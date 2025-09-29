@@ -8796,6 +8796,7 @@ absurd	wishes	claire	eau	whoever	philosopher:11
 patently	wishes	claire	eau	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	whoever	philosopher:11
 wi:12
+wi	wisconsin:11
 wi	absurd:11
 wi	absurd	wisconsin:10
 wi	patently:11
@@ -9050,7 +9051,6 @@ absurd	patently	claire	eau	wi	whoever	philosopher:11
 absurd	wishes	claire	eau	wi	whoever	philosopher:11
 patently	wishes	claire	eau	wi	whoever	philosopher:11
 absurd	patently	wishes	claire	eau	wi	whoever	philosopher:11
-wi	wisconsin:11
 gives:12
 gives	approach:9
 reasonable:12
