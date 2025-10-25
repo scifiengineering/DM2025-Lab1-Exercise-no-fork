@@ -1,3 +1,2 @@
 * text=auto
 *.py text eol=lf
-DM2025-Lab1-Master.ipynb filter=lfs diff=lfs merge=lfs -text
